@@ -54,7 +54,7 @@ cd Search-Text-Highlighter
 
 ## Preview
 
-![URL QR Code Generator](preview.png)
+![URL Search Text Highlighter](preview.png)
 
 ## Support and Contributions
 
