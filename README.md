@@ -1,4 +1,4 @@
-# Search-Text-Highlighter
+# Search Text Highlighter
 
 This is a simple web application that allows users to search for specific text within a paragraph and highlights all occurrences of the searched text.
 
