@@ -1,3 +1,14 @@
+<p align="center">
+<a href="https://github.com/0xelsherif/Search-Text-Highlighter"><img src="https://img.shields.io/github/repo-size/0xelsherif/Search-Text-Highlighter?style=social&logo=github"></a>
+<a href="https://github.com/0xelsherif/Search-Text-Highlighter"><img src="https://img.shields.io/github/stars/0xelsherif/Search-Text-Highlighter.svg?style=social&label=Star" alt="GitHub Stars"></a>
+<a href="https://github.com/0xelsherif/Search-Text-Highlighter"><img src="https://img.shields.io/github/forks/0xelsherif/Search-Text-Highlighter.svg?style=social&label=Fork" alt="GitHub Forks"></a>
+<a href="https://github.com/0xelsherif/Search-Text-Highlighter/discussions"><img src="https://img.shields.io/github/discussions/0xelsherif/Search-Text-Highlighter?style=social&logo=github" alt="GitHub Discussions"></a>
+<a href="https://github.com/0xelsherif/Search-Text-Highlighter/issues"><img src="https://img.shields.io/github/issues/0xelsherif/Search-Text-Highlighter?style=social&logo=github" alt="GitHub Issues"></a>
+<a href="https://codepen.io/0xelsherif/full/ZEZJOLP" target="_blank"><img src="https://img.shields.io/badge/CodePen-Project-blue?logo=codepen" alt="CodePen Project"></a>
+<!-- <a href="https://0xelsherif.medium.com/mastering-text-analysis-with-javascript-a-step-by-step-guide-f9914fb5b5f1" target="_blank"><img src="https://img.shields.io/badge/Medium-Publication-green?logo=medium" alt="Medium Publication"></a> -->
+</p>
+
+
 # Search Text Highlighter
 
 This is a simple web application that allows users to search for specific text within a paragraph and highlights all occurrences of the searched text.
@@ -67,6 +78,10 @@ If you'd like to contribute to the project, whether it's fixing bugs, adding new
 Follow me on GitHub to stay updated with my latest projects and contributions:
 
 [![Follow me on GitHub](https://img.shields.io/github/followers/0xelsherif?label=Follow&style=social)](https://github.com/0xelsherif)
+<a href="https://twitter.com/intent/follow?screen_name=0xelsherif"><img alt="Follow @0xelsherif on Twitter" src="https://img.shields.io/twitter/follow/0xelsherif"></a>
+[![Connect with @0xelsherif on LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin)](https://www.linkedin.com/in/0xelsherif)
+[![Follow @0xelsherif on Medium](https://img.shields.io/badge/Medium--black?style=social&logo=medium)](https://medium.com/@0xelsherif)
+[![Follow @0xelsherif on Codepen](https://img.shields.io/badge/Codepen--black?style=social&logo=codepen)](https://codepen.io/0xelsherif)
 
 ### Buy Me a Coffee ☕
 
