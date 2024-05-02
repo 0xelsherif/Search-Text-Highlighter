@@ -77,3 +77,60 @@ mark {
 .footer a:hover {
   text-decoration: underline; /* Add underline on hover */
 }
+
+
+.copyright-widget {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+}
+
+.copyright-widget button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.copyright-widget button:hover {
+  background-color: #0056b3;
+}
+
+.copyright-form {
+  position: absolute;
+  bottom: calc(100% + 10px);
+  right: 0;
+  width: 200px;
+  background-color: #f9f9f9;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  display: none;
+  text-align: center;
+}
+
+.copyright-form ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.copyright-form li {
+  margin-bottom: 10px;
+}
+
+.copyright-form a {
+  background-color: #007bff;
+  color: #fff;
+  text-decoration: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  display: block;
+}
+
+.copyright-form a:hover {
+  background-color: #0056b3;
+}
